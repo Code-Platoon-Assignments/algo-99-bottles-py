@@ -42,3 +42,19 @@ Go to the store and buy some more, 99 bottles of beer on the wall.
 
 * Make your code able to take in and account for any bottle amount
 * Refactor your code so it doesn't use any loops or iteration whatsoever
+
+
+## Running the test suite
+This exercise contains a pytest test suite to help you exercise your Test Driven Development skills. To run the test suite, please follow these steps:
+
+  - Install pytest
+
+    ```bash
+    pip install pytest
+    Run the test suite
+    ```
+  - Run the test suite
+
+    ```bash
+    pytest test_bottles.py
+    ```
